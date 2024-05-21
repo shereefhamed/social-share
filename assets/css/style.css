@@ -1,0 +1,40 @@
+.social-media-share-icon{
+    padding: 12px;
+    border-radius: 50px;
+}
+.fa-brands {
+    padding: 12px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none; 
+}
+.rounded.fa-brands{
+    border-radius: 50%;
+}
+.fa-facebook-f {
+    background: #3B5998;
+    color: white;
+}
+.fa-x-twitter {
+    background: #000000;
+    color: white;
+}
+.fa-linkedin-in {
+    background: #007bb5;
+    color: white;
+}
+.fa-pinterest-p {
+    background: #cb2027;
+    color: white;
+}
+.fa-whatsapp{
+    background: #25d366;
+    color: white;
+}
+.fa-brands:hover {
+    opacity: 0.7;
+}
+.social-media-share-icons{
+    padding-bottom: 16px;
+}
